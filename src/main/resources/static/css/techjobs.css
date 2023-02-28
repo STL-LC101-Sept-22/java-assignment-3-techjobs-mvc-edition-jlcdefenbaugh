@@ -30,7 +30,10 @@ table.job-listing {
 }
 
 table.job-listing td:first-child {
-    font-weight: bold;
+    font-weight: regular;
+    font-size: 16.5px;
+    font-family: Impact;
+
 }
 
 table.job-listing td:last-child {
